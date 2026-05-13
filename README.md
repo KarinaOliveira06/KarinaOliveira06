@@ -32,8 +32,8 @@ I am building a career at the intersection of **Software Engineering** and **Off
 
 ### 📊 Performance & Growth Metrics
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarinaOliveira06&theme=zenburn" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarinaOliveira06&theme=zenburn" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarinaOliveira06&theme=copper" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KarinaOliveira06&theme=copper" />
 </div>
 
 ---
